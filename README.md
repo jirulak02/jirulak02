@@ -43,3 +43,4 @@
 - [jirulak02@gmail.com](mailto:jirulak02@gmail.com)
 - [Instagram](https://www.instagram.com/jirulak02/)
 - [+420 777 898 501](tel:+420777898501)
+- [Personal website](https://jiri-simecek.webflow.io/)
