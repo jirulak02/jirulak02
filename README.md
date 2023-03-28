@@ -14,7 +14,7 @@
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />        
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228203041-45d642a7-83f3-4407-80b7-7d472ca10eea.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228292621-375ff9c2-81b2-4ca8-9976-64edbae398c8.png">
   <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
 </picture>
 <br>
@@ -25,7 +25,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228207552-0d6c2b49-7ebe-471b-9127-7f4d0d2c2090.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228292785-cba30f93-211e-4a8f-923f-8aa663a41abc.png">
   <img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </picture>
 <br>
@@ -34,6 +34,12 @@
 <img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228203734-133318b3-9b16-4764-baeb-9c9a90b7f354.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228292915-0d213b0b-6714-4211-9905-cd3eb85419c4.png">
   <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </picture>
+<br>
+
+## Contact
+- [jirulak02@gmail.com](mailto:jirulak02@gmail.com)
+- [Instagram](https://www.instagram.com/jirulak02/)
+- [+420 777 898 501](tel:+420777898501)
