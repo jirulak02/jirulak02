@@ -14,8 +14,8 @@
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />        
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228203041-45d642a7-83f3-4407-80b7-7d472ca10eea.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228203041-45d642a7-83f3-4407-80b7-7d472ca10eea.png">
   <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
 </picture>
 <br>
