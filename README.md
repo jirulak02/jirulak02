@@ -1,8 +1,8 @@
 # Hi there, I'm Jirka 👋
 
-### I'm a full-stack web developer
+### A full-stack web developer from Prague
 
-- I’m currently learning advanced React concepts
+- I'm currently learning advanced React concepts
 - In the future I also want to start building mobile apps
 
 ## Programming languages
