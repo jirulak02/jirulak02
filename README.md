@@ -11,7 +11,7 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/109624095/233427420-6d49e303-625f-4913-8edc-23c232ea8646.png" />
+<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/109624095/233427920-7685626e-a581-43ad-bc69-ea00edc7c63b.png" />
 <br>
 
 ## Frameworks and libraries
