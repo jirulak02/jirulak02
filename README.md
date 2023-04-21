@@ -2,7 +2,7 @@
 
 ### A full-stack web developer from Prague
 
-- I'm currently learning advanced React concepts
+- I'm currently learning more about Next.js
 - In the future I also want to start building mobile apps
 
 ## Programming languages
