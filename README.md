@@ -44,5 +44,6 @@
 ## Contact
 - [jirulak02@gmail.com](mailto:jirulak02@gmail.com)
 - [Instagram](https://www.instagram.com/jirulak02/)
+- [LinkedIn](https://www.linkedin.com/in/ji%C5%99%C3%AD-%C5%A1ime%C4%8Dek-a95b5027b)
 - [+420 777 898 501](tel:+420777898501)
 - [Personal website](https://www.jiri-simecek.com/)
