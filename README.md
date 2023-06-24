@@ -22,6 +22,7 @@
 </picture>
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Framer motion" width="26px" src="https://github.com/jirulak02/jirulak02/assets/109624095/f531bf96-d129-4eb0-87fc-3783c2ea6389" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228292785-cba30f93-211e-4a8f-923f-8aa663a41abc.png">
