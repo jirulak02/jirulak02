@@ -2,7 +2,7 @@
 
 ### A full-stack web developer from Prague
 
-- I'm currently building client projects in Next.js
+- I'm currently solidifying my web knowledge for my job
 - In the future I also want to start building mobile apps
 
 ## Programming languages
