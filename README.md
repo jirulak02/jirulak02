@@ -29,7 +29,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228292785-cba30f93-211e-4a8f-923f-8aa663a41abc.png">
   <img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </picture>
-<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <br>
 
