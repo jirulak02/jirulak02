@@ -2,7 +2,7 @@
 
 ### A full-stack web developer from Prague
 
-- I'm currently building a notifications web app
+- I'm currently upgrading my current projects and websites
 - In the future I also want to start building mobile apps
 
 ## Programming languages
