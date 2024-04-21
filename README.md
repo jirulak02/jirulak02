@@ -36,7 +36,10 @@
 ## Tools
 <img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Vercel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jirulak02/jirulak02/assets/109624095/940b35b9-6a64-4528-85b0-2c54095abd1c">
+  <img align="left" alt="Vercel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109624095/228292915-0d213b0b-6714-4211-9905-cd3eb85419c4.png">
   <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
