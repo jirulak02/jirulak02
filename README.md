@@ -2,7 +2,7 @@
 
 ### A full-stack web developer from Prague
 
-- I'm currently mostly building cool shit at my job
+- I'm currently mostly learning backend and a bit of AI
 - In the future I also want to start building mobile apps
 
 ## Programming languages
