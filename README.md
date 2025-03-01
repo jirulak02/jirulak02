@@ -39,7 +39,10 @@
 <br>
 
 ## Tools
-<img align="left" alt="Cursor" width="26px" src="https://github.com/user-attachments/assets/6d17b5c6-361b-4933-a6ce-4f8344498dca" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9c37c81c-300f-4aa5-9be6-c70f4929d7eb">
+  <img align="left" alt="Cursor" width="26px" src="https://github.com/user-attachments/assets/6d17b5c6-361b-4933-a6ce-4f8344498dca" />
+</picture>
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jirulak02/jirulak02/assets/109624095/940b35b9-6a64-4528-85b0-2c54095abd1c">
