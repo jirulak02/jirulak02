@@ -22,6 +22,8 @@
 </picture>
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Strapi" width="26px" src="https://github.com/user-attachments/assets/07da730c-827e-42a3-bf0c-20c14abceebf" />
+<img align="left" alt="Payload" width="26px" src="https://github.com/user-attachments/assets/d1c3df01-a536-415f-aefb-bf187474c361" />
 <img align="left" alt="Docusaurus" width="26px" src="https://github.com/jirulak02/jirulak02/assets/109624095/26d9b034-803f-4e1a-837c-2eefba2024db" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 <img align="left" alt="Framer motion" width="26px" src="https://github.com/jirulak02/jirulak02/assets/109624095/5b6c61b5-473b-4c43-8ff8-df047a03cd3a" />
@@ -34,7 +36,7 @@
 <br>
 
 ## Tools
-<img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Cursor" width="26px" src="https://github.com/user-attachments/assets/6d17b5c6-361b-4933-a6ce-4f8344498dca" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jirulak02/jirulak02/assets/109624095/940b35b9-6a64-4528-85b0-2c54095abd1c">
