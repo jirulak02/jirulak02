@@ -23,7 +23,10 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Strapi" width="26px" src="https://github.com/user-attachments/assets/07da730c-827e-42a3-bf0c-20c14abceebf" />
-<img align="left" alt="Payload" width="26px" src="https://github.com/user-attachments/assets/d1c3df01-a536-415f-aefb-bf187474c361" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/063b4adb-147b-42d3-ab0e-1c2c8fcb363d">
+  <img align="left" alt="Payload" width="26px" src="https://github.com/user-attachments/assets/d1c3df01-a536-415f-aefb-bf187474c361" />
+</picture>
 <img align="left" alt="Docusaurus" width="26px" src="https://github.com/jirulak02/jirulak02/assets/109624095/26d9b034-803f-4e1a-837c-2eefba2024db" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 <img align="left" alt="Framer motion" width="26px" src="https://github.com/jirulak02/jirulak02/assets/109624095/5b6c61b5-473b-4c43-8ff8-df047a03cd3a" />
