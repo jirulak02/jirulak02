@@ -24,8 +24,8 @@
 <img align="left" alt="Tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Strapi" width="26px" src="https://github.com/user-attachments/assets/07da730c-827e-42a3-bf0c-20c14abceebf" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c5385f30-7fc3-4ab6-99bb-1b27732137cf">
-  <img align="left" alt="Payload" width="26px" src="https://github.com/user-attachments/assets/d1c3df01-a536-415f-aefb-bf187474c361" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f2406479-c448-424e-af15-1c038ad628f6">
+  <img align="left" alt="Payload" width="26px" src="https://github.com/user-attachments/assets/4b731c73-3d21-4f00-8cea-4cabd582f26d" />
 </picture>
 <img align="left" alt="Docusaurus" width="26px" src="https://github.com/jirulak02/jirulak02/assets/109624095/26d9b034-803f-4e1a-837c-2eefba2024db" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
@@ -40,8 +40,8 @@
 
 ## Tools
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9c37c81c-300f-4aa5-9be6-c70f4929d7eb">
-  <img align="left" alt="Cursor" width="26px" src="https://github.com/user-attachments/assets/6d17b5c6-361b-4933-a6ce-4f8344498dca" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f096a69b-7a5e-42f2-b6c1-6e7c272afe13">
+  <img align="left" alt="Cursor" width="26px" src="https://github.com/user-attachments/assets/a2a0610a-ea7b-49e5-8add-8836d5e1650d" />
 </picture>
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <picture>
