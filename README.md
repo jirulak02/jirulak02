@@ -1,9 +1,9 @@
 # Hi there, I'm Jirka 👋
 
-### A full-stack web developer from Prague
+### A full-stack developer from Prague
 
-- I'm currently mostly learning architechture and a bit of AI
-- In the future I also want to start building mobile apps
+- I'm currently mostly learning mobile development
+- In the future I eventually want to lead my own IT company
 
 ## Main technologies
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
