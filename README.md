@@ -1,3 +1,1 @@
-Description of my most interesting projects: [https://www.linkedin.com/in/jiří-šimeček/](https://www.linkedin.com/in/jiří-šimeček/)
-
-Contact: [jirulak02@gmail.com](mailto:jirulak02@gmail.com)
+There are so many web dev vulnerabilities these days that if you are not intensely maintaining your production repositories, having them public is just inviting bad actors to exploit them, especially since everything can be seen in the GitHub Security tab. Thus I have been forced to make everything private. If you want to know what I'm working on, message me.
